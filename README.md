@@ -7,8 +7,10 @@
 - 📫 Fun fact: I love to run, and ran for App's Cross Country and Track team from 2012-2017.
 
 ### Connect with me
-- My email is vandenbergam@appstate.edu
-- My LinkedIn is XXXX
+[<img align="left" alt="Gmail" width="40px" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" />](vandenbergam@appstate.edu)
+[<img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/andrew-vandenberg-676290b8/?trk=public-profile-join-page)
+
+<br />
 
 ### Language and Tools
 <img align="left" alt="Jupyter Notebook" width="40px" src="https://github.com/jupyter/jupyter.github.io/blob/master/assets/main-logo.svg" />
