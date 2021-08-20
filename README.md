@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Actuarial Science and how it intersects with Data Science.
 - 🌱 I’m currently learning Acuarial Science through school, and how to utilize machine learning models to better predict future outcomes.
-- 📫 Fun fact: I love to run, and ran for App's varsity Cross Country and Track team from 2012-2017.
+- 🏃‍♂️: Fun fact: I love to run, and ran for App's varsity Cross Country and Track team from 2012-2017.
 
 ### Connect with me
 [<img align="left" alt="Gmail" width="40px" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" />](vandenbergam@appstate.edu)
