@@ -17,5 +17,5 @@
 <img align="left" alt="Vim" width="40px" src="https://user-images.githubusercontent.com/8083855/30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png" />
 <img align="left" alt="RStudio" width="100px" src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.png" />
 <img align="left" alt="Python" width="140px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
-<img align="left" alt="Java" width="45px" src="https://img.icons8.com/ios/50/000000/java-files--v1.png" />
+<!--<img align="left" alt="Java" width="45px" src="https://img.icons8.com/ios/50/000000/java-files--v1.png" />
 
